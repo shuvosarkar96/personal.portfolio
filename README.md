@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shuvo</h1>
 <h3 align="center">A passionate wannabe frontend developer from Bangladesh.</h3>
 
-- 🔭 I’m currently working on [Tribute Page](https://github.com/shuvosarkar96/surveyform-prework.git)
+- 🔭 I’m currently working on [Personal Portfolio]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

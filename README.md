@@ -1,11 +1,31 @@
-<h1 align="center">Hi 👋, I'm Shuvo</h1>
-<h3 align="center">A passionate wannabe frontend developer from Bangladesh.</h3>
+# Personal Portfolio (Practice)
 
-- 🔭 I’m currently working on [Personal Portfolio]
+This is a practice project for creating a responsive Portfolio Website which can be used as an online resume.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> </p>
+## Features
+
+- The website is fully responsive and adapts to different screen sizes and devices.
+- Responsive design
+- Highlights my technical skills and proficiencies.
+- Showcases a collection of projects.
+- Allows visitors to get in touch directly through the website.
+
+
+## Technologies Used
+
+- HTML5
+- CSS3
+
+
+## Usage
+
+- Clone the repository
+- Navigate to the project directory
+- Open `index.html` in a web browser to view the portfolio.
+
+
+## Authors
+
+[Shuvo Sarkar](https://www.linkedin.com/in/shuvosarkarofficial)
+
